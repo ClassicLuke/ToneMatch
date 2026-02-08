@@ -1,0 +1,102 @@
+[
+  {
+    "id": "soft-glam-warm",
+    "name": "Soft Glam Warm Neutrals",
+    "tags": {
+      "undertone": ["warm", "neutral", "olive"],
+      "depthRange": [15, 70],
+      "season": "all",
+      "vibe": "soft glam"
+    },
+    "steps": [
+      "Prep with hydrating primer.",
+      "Even out complexion with warm foundation family.",
+      "Tap peachy blush on the high points of cheeks.",
+      "Sweep warm brown shadow across lids.",
+      "Add soft bronze shimmer at center lid.",
+      "Line upper lash line with brown liner.",
+      "Finish with warm nude lip."
+    ],
+    "swatches": [
+      { "name": "Warm Beige", "hex": "#DABF9A" },
+      { "name": "Bronze", "hex": "#A87242" },
+      { "name": "Warm Nude", "hex": "#C87B5C" }
+    ],
+    "difficulty": "easy",
+    "vibe": "soft glam"
+  },
+  {
+    "id": "clean-girl-cool",
+    "name": "Clean Girl Cool Rosy",
+    "tags": {
+      "undertone": ["cool", "neutral"],
+      "depthRange": [0, 60],
+      "season": "spring",
+      "vibe": "clean"
+    },
+    "steps": [
+      "Sheer base with lightweight tint.",
+      "Conceal only where needed.",
+      "Add cool pink blush to cheeks.",
+      "Brush brows upward with clear gel.",
+      "Soft taupe wash on lids.",
+      "Finish with rosy balm."
+    ],
+    "swatches": [
+      { "name": "Cool Pink", "hex": "#F4C9D9" },
+      { "name": "Taupe", "hex": "#9C8F86" },
+      { "name": "Rosy Balm", "hex": "#D47C85" }
+    ],
+    "difficulty": "easy",
+    "vibe": "clean"
+  },
+  {
+    "id": "sunset-olive",
+    "name": "Sunset Olive Glow",
+    "tags": {
+      "undertone": ["olive", "warm"],
+      "depthRange": [30, 90],
+      "season": "summer",
+      "vibe": "radiant"
+    },
+    "steps": [
+      "Apply golden primer.",
+      "Set bronzer along perimeter of face.",
+      "Use olive-gold shimmer on lids.",
+      "Blend warm terracotta into crease.",
+      "Add olive eyeliner for definition.",
+      "Finish with copper gloss."
+    ],
+    "swatches": [
+      { "name": "Olive Gold", "hex": "#A88F4A" },
+      { "name": "Terracotta", "hex": "#B85C38" },
+      { "name": "Copper Gloss", "hex": "#B35D35" }
+    ],
+    "difficulty": "medium",
+    "vibe": "radiant"
+  },
+  {
+    "id": "bold-berry",
+    "name": "Bold Berry Night",
+    "tags": {
+      "undertone": ["cool", "neutral"],
+      "depthRange": [50, 100],
+      "season": "fall",
+      "vibe": "bold"
+    },
+    "steps": [
+      "Matte base with full coverage foundation.",
+      "Add berry blush to cheeks.",
+      "Smoke plum shadow along lash line.",
+      "Deepen outer corner with charcoal.",
+      "Finish with a berry lip."
+    ],
+    "swatches": [
+      { "name": "Berry", "hex": "#8A2E5A" },
+      { "name": "Plum", "hex": "#6B2A4A" },
+      { "name": "Charcoal", "hex": "#3A3A3A" }
+    ],
+    "difficulty": "medium",
+    "vibe": "bold"
+  }
+]

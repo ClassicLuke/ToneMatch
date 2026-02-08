@@ -1,0 +1,410 @@
+{
+  "undertone": {
+    "cool": {
+      "depthBuckets": [
+        {
+          "id": "very-fair",
+          "recommendedColors": [
+            { "name": "Cloud White", "hex": "#F7F6F2", "category": "neutral" },
+            { "name": "Soft Navy", "hex": "#2E3A59", "category": "bold" },
+            { "name": "Icy Pink", "hex": "#F4C9D9", "category": "accent" }
+          ],
+          "makeupFamilies": {
+            "blush": ["cool pink", "soft mauve"],
+            "lipstick": ["rose", "blue-red"],
+            "eyeshadow": ["taupe", "pewter", "cool brown"],
+            "eyeliner": ["charcoal", "deep plum"]
+          }
+        },
+        {
+          "id": "fair",
+          "recommendedColors": [
+            { "name": "Cool Beige", "hex": "#E6DCD1", "category": "neutral" },
+            { "name": "Dusty Rose", "hex": "#C98B9E", "category": "accent" },
+            { "name": "Slate", "hex": "#5C6A7A", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["rose", "mauve"],
+            "lipstick": ["berry", "cool red"],
+            "eyeshadow": ["cool taupe", "champagne"],
+            "eyeliner": ["slate", "espresso"]
+          }
+        },
+        {
+          "id": "light",
+          "recommendedColors": [
+            { "name": "Stone", "hex": "#D2C7BE", "category": "neutral" },
+            { "name": "Lilac", "hex": "#BFA5D8", "category": "accent" },
+            { "name": "Midnight Blue", "hex": "#1F2A44", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["cool berry", "soft plum"],
+            "lipstick": ["berry", "rosewood"],
+            "eyeshadow": ["cool bronze", "taupe"],
+            "eyeliner": ["navy", "charcoal"]
+          }
+        },
+        {
+          "id": "medium",
+          "recommendedColors": [
+            { "name": "Mushroom", "hex": "#B6A99F", "category": "neutral" },
+            { "name": "Raspberry", "hex": "#B23A60", "category": "accent" },
+            { "name": "Cobalt", "hex": "#2B3D9E", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["cool rose", "berry"],
+            "lipstick": ["cool plum", "berry"],
+            "eyeshadow": ["cool cocoa", "silver"],
+            "eyeliner": ["ink", "plum"]
+          }
+        },
+        {
+          "id": "tan",
+          "recommendedColors": [
+            { "name": "Greige", "hex": "#B0A299", "category": "neutral" },
+            { "name": "Magenta", "hex": "#A62E6D", "category": "accent" },
+            { "name": "Deep Teal", "hex": "#115C66", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["berry", "plum"],
+            "lipstick": ["wine", "cool brick"],
+            "eyeshadow": ["smoky violet", "gunmetal"],
+            "eyeliner": ["deep navy", "black"]
+          }
+        },
+        {
+          "id": "deep",
+          "recommendedColors": [
+            { "name": "Cool Taupe", "hex": "#8A7D76", "category": "neutral" },
+            { "name": "Orchid", "hex": "#9A4C95", "category": "accent" },
+            { "name": "Royal Purple", "hex": "#4B2A7A", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["cool berry", "raisin"],
+            "lipstick": ["plum", "cool red"],
+            "eyeshadow": ["slate", "cool bronze"],
+            "eyeliner": ["black", "eggplant"]
+          }
+        },
+        {
+          "id": "very-deep",
+          "recommendedColors": [
+            { "name": "Graphite", "hex": "#5E5652", "category": "neutral" },
+            { "name": "Fuchsia", "hex": "#9B2C73", "category": "accent" },
+            { "name": "Indigo", "hex": "#2B2E6D", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["berry", "plum"],
+            "lipstick": ["deep berry", "cool red"],
+            "eyeshadow": ["charcoal", "cool bronze"],
+            "eyeliner": ["black", "navy"]
+          }
+        }
+      ]
+    },
+    "warm": {
+      "depthBuckets": [
+        {
+          "id": "very-fair",
+          "recommendedColors": [
+            { "name": "Ivory", "hex": "#F5EBDD", "category": "neutral" },
+            { "name": "Peach", "hex": "#F3B28D", "category": "accent" },
+            { "name": "Terracotta", "hex": "#B85C38", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["peach", "apricot"],
+            "lipstick": ["warm coral", "soft terracotta"],
+            "eyeshadow": ["gold", "warm taupe"],
+            "eyeliner": ["brown", "bronze"]
+          }
+        },
+        {
+          "id": "fair",
+          "recommendedColors": [
+            { "name": "Sand", "hex": "#EAD3B4", "category": "neutral" },
+            { "name": "Coral", "hex": "#F2846B", "category": "accent" },
+            { "name": "Olive", "hex": "#6C6F3D", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["peach", "warm rose"],
+            "lipstick": ["warm rose", "coral"],
+            "eyeshadow": ["bronze", "warm brown"],
+            "eyeliner": ["brown", "copper"]
+          }
+        },
+        {
+          "id": "light",
+          "recommendedColors": [
+            { "name": "Warm Beige", "hex": "#DABF9A", "category": "neutral" },
+            { "name": "Apricot", "hex": "#F2A774", "category": "accent" },
+            { "name": "Deep Olive", "hex": "#5A5F2E", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["apricot", "warm peach"],
+            "lipstick": ["warm nude", "brick"],
+            "eyeshadow": ["golden bronze", "caramel"],
+            "eyeliner": ["brown", "olive"]
+          }
+        },
+        {
+          "id": "medium",
+          "recommendedColors": [
+            { "name": "Camel", "hex": "#C49B6C", "category": "neutral" },
+            { "name": "Rust", "hex": "#C0583E", "category": "accent" },
+            { "name": "Emerald", "hex": "#1D6B4F", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["warm terracotta", "cinnamon"],
+            "lipstick": ["brick", "copper"]
+          }
+        },
+        {
+          "id": "tan",
+          "recommendedColors": [
+            { "name": "Toffee", "hex": "#AF7E4E", "category": "neutral" },
+            { "name": "Spice", "hex": "#C86B4E", "category": "accent" },
+            { "name": "Forest", "hex": "#1F5B3C", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["warm berry", "terracotta"],
+            "lipstick": ["burnt coral", "warm brown"],
+            "eyeshadow": ["bronze", "gold"],
+            "eyeliner": ["brown", "deep green"]
+          }
+        },
+        {
+          "id": "deep",
+          "recommendedColors": [
+            { "name": "Cocoa", "hex": "#8F6440", "category": "neutral" },
+            { "name": "Copper", "hex": "#B35D35", "category": "accent" },
+            { "name": "Teal", "hex": "#0F5A5C", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["warm berry", "brick"],
+            "lipstick": ["warm brick", "copper"],
+            "eyeshadow": ["gold", "bronze"],
+            "eyeliner": ["deep brown", "black"]
+          }
+        },
+        {
+          "id": "very-deep",
+          "recommendedColors": [
+            { "name": "Mahogany", "hex": "#6E4630", "category": "neutral" },
+            { "name": "Sienna", "hex": "#A24A2A", "category": "accent" },
+            { "name": "Deep Emerald", "hex": "#0E4E3D", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["burnt sienna", "warm berry"],
+            "lipstick": ["deep copper", "brick"],
+            "eyeshadow": ["gold", "bronze"],
+            "eyeliner": ["black", "deep brown"]
+          }
+        }
+      ]
+    },
+    "neutral": {
+      "depthBuckets": [
+        {
+          "id": "very-fair",
+          "recommendedColors": [
+            { "name": "Soft Cream", "hex": "#F2E9DD", "category": "neutral" },
+            { "name": "Petal", "hex": "#F1B7B1", "category": "accent" },
+            { "name": "Denim", "hex": "#3E4C66", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["neutral pink", "soft peach"],
+            "lipstick": ["rose", "soft coral"],
+            "eyeshadow": ["taupe", "soft brown"],
+            "eyeliner": ["brown", "charcoal"]
+          }
+        },
+        {
+          "id": "fair",
+          "recommendedColors": [
+            { "name": "Oat", "hex": "#E7D8C4", "category": "neutral" },
+            { "name": "Warm Rose", "hex": "#E19A8C", "category": "accent" },
+            { "name": "Navy", "hex": "#2C3B56", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["rose", "peach"],
+            "lipstick": ["rose", "berry"],
+            "eyeshadow": ["taupe", "bronze"],
+            "eyeliner": ["deep brown", "navy"]
+          }
+        },
+        {
+          "id": "light",
+          "recommendedColors": [
+            { "name": "Almond", "hex": "#D4C1A6", "category": "neutral" },
+            { "name": "Terracotta Rose", "hex": "#C47B6A", "category": "accent" },
+            { "name": "Forest Blue", "hex": "#2A4B4E", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["warm rose", "soft coral"],
+            "lipstick": ["rosewood", "soft berry"],
+            "eyeshadow": ["neutral brown", "bronze"],
+            "eyeliner": ["brown", "charcoal"]
+          }
+        },
+        {
+          "id": "medium",
+          "recommendedColors": [
+            { "name": "Wheat", "hex": "#C6A57F", "category": "neutral" },
+            { "name": "Spiced Rose", "hex": "#B96C62", "category": "accent" },
+            { "name": "Deep Teal", "hex": "#1E4F55", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["rose", "cinnamon"],
+            "lipstick": ["brick rose", "berry"],
+            "eyeshadow": ["bronze", "cocoa"],
+            "eyeliner": ["espresso", "deep green"]
+          }
+        },
+        {
+          "id": "tan",
+          "recommendedColors": [
+            { "name": "Hazelnut", "hex": "#B0825C", "category": "neutral" },
+            { "name": "Cinnamon", "hex": "#B05E4A", "category": "accent" },
+            { "name": "Jade", "hex": "#1D5B4B", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["warm rose", "terracotta"],
+            "lipstick": ["brick", "warm berry"],
+            "eyeshadow": ["bronze", "olive"],
+            "eyeliner": ["brown", "deep teal"]
+          }
+        },
+        {
+          "id": "deep",
+          "recommendedColors": [
+            { "name": "Chestnut", "hex": "#8C5B3C", "category": "neutral" },
+            { "name": "Rosewood", "hex": "#9C4A43", "category": "accent" },
+            { "name": "Evergreen", "hex": "#1A4B3C", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["warm berry", "brick"],
+            "lipstick": ["berry", "warm brick"],
+            "eyeshadow": ["gold", "cocoa"],
+            "eyeliner": ["deep brown", "black"]
+          }
+        },
+        {
+          "id": "very-deep",
+          "recommendedColors": [
+            { "name": "Espresso", "hex": "#6B432B", "category": "neutral" },
+            { "name": "Copper Rose", "hex": "#94423C", "category": "accent" },
+            { "name": "Deep Pine", "hex": "#123C30", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["deep rose", "copper"],
+            "lipstick": ["deep berry", "brick"],
+            "eyeshadow": ["bronze", "deep brown"],
+            "eyeliner": ["black", "deep brown"]
+          }
+        }
+      ]
+    },
+    "olive": {
+      "depthBuckets": [
+        {
+          "id": "very-fair",
+          "recommendedColors": [
+            { "name": "Ecru", "hex": "#F0E7D7", "category": "neutral" },
+            { "name": "Sage", "hex": "#B5B998", "category": "accent" },
+            { "name": "Deep Olive", "hex": "#4B5B3B", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["soft apricot", "muted rose"],
+            "lipstick": ["warm nude", "soft terracotta"],
+            "eyeshadow": ["olive", "bronze"],
+            "eyeliner": ["brown", "deep green"]
+          }
+        },
+        {
+          "id": "fair",
+          "recommendedColors": [
+            { "name": "Linen", "hex": "#E6D7C0", "category": "neutral" },
+            { "name": "Muted Coral", "hex": "#D7927A", "category": "accent" },
+            { "name": "Juniper", "hex": "#3C5A49", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["apricot", "warm rose"],
+            "lipstick": ["warm rose", "brick"],
+            "eyeshadow": ["olive", "khaki"],
+            "eyeliner": ["brown", "deep green"]
+          }
+        },
+        {
+          "id": "light",
+          "recommendedColors": [
+            { "name": "Soft Olive", "hex": "#CBB895", "category": "neutral" },
+            { "name": "Clay", "hex": "#C2765D", "category": "accent" },
+            { "name": "Pine", "hex": "#2E4F3F", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["muted apricot", "warm rose"],
+            "lipstick": ["brick", "warm brown"],
+            "eyeshadow": ["olive", "bronze"],
+            "eyeliner": ["brown", "forest"]
+          }
+        },
+        {
+          "id": "medium",
+          "recommendedColors": [
+            { "name": "Olive Tan", "hex": "#B08B66", "category": "neutral" },
+            { "name": "Terra", "hex": "#B1624A", "category": "accent" },
+            { "name": "Deep Moss", "hex": "#2C4A3A", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["warm terracotta", "cinnamon"],
+            "lipstick": ["brick", "burnt coral"],
+            "eyeshadow": ["olive", "gold"],
+            "eyeliner": ["deep brown", "forest"]
+          }
+        },
+        {
+          "id": "tan",
+          "recommendedColors": [
+            { "name": "Bronze", "hex": "#9C704A", "category": "neutral" },
+            { "name": "Spice Rose", "hex": "#A85A43", "category": "accent" },
+            { "name": "Teal Pine", "hex": "#1A4A44", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["warm berry", "brick"],
+            "lipstick": ["warm brick", "copper"],
+            "eyeshadow": ["olive", "bronze"],
+            "eyeliner": ["black", "deep green"]
+          }
+        },
+        {
+          "id": "deep",
+          "recommendedColors": [
+            { "name": "Umber", "hex": "#805536", "category": "neutral" },
+            { "name": "Copper Clay", "hex": "#9A4D38", "category": "accent" },
+            { "name": "Emerald", "hex": "#0F4C44", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["brick", "warm berry"],
+            "lipstick": ["deep copper", "brick"],
+            "eyeshadow": ["olive", "gold"],
+            "eyeliner": ["black", "deep green"]
+          }
+        },
+        {
+          "id": "very-deep",
+          "recommendedColors": [
+            { "name": "Dark Umber", "hex": "#6A422A", "category": "neutral" },
+            { "name": "Copper Rose", "hex": "#8F3C33", "category": "accent" },
+            { "name": "Forest Night", "hex": "#0D3A33", "category": "bold" }
+          ],
+          "makeupFamilies": {
+            "blush": ["deep terracotta", "warm berry"],
+            "lipstick": ["deep brick", "copper"],
+            "eyeshadow": ["olive", "bronze"],
+            "eyeliner": ["black", "deep green"]
+          }
+        }
+      ]
+    }
+  }
+}
